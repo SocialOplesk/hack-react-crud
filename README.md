@@ -4,7 +4,9 @@
 
 ## ⚡️ HACK - REACT CRUD ⚡️
 
-📚 docs [comandos git 1](https://gist.github.com/dasdo/9ff71c5c0efa037441b6) | [comandos git 2](https://github.com/joshnh/Git-Commands/blob/master/READMEes.md) 
+📚 docs [REACT-VITE](https://vitejs.dev/) | [REACT-ROUTER-DOM](https://reactrouter.com/en/main) | [REACT-HOOK-FORM](https://react-hook-form.com/) 
+<br><br>
+📚 docs  [STYLED-COMPONENT](https://styled-components.com/) | [REDUX](https://redux.js.org/) 
 ---
 
 ```diff
