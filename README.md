@@ -16,7 +16,7 @@
 | H-2      | Elaborar los procesos de CREATE / READ |
 | H-3      | Elaborar los procesos de CREATE / READ / DELETE | 
 | H-4      | Elaborar los procesos de CREATE / READ / UPDATE / DELETE |
-| H-5      | Elaborar los procesos de CREATE / READ / UPDATE / DELETE y Pagination  |
+| H-5      | Elaborar los procesos de CREATE / READ / UPDATE / DELETE y PAGINATION  |
 
 
 <br/> 
@@ -143,7 +143,6 @@
 
 <br/>
 
----
 
 
 ---
